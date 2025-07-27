@@ -15,7 +15,8 @@ Analyze retail sales data to identify top-performing products, regional performa
 - **Optimal profit margins** occur at ~20% discount; deeper discounts don’t yield proportional profit.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png) *(Replace with your actual screenshot)*
+![Dashboard Screenshot](<img width="1143" height="652" alt="image" src="https://github.com/user-attachments/assets/25c41353-4f8a-4e9d-932e-19af3a58be8b" />
+) *(Replace with your actual screenshot)*
 
 ## 🚀 How to Run
 1. Clone this repo.
